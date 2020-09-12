@@ -1,0 +1,18 @@
+{
+  "name": "@graham768/yell",
+  "bin": {
+    "yell": "index.js"
+  },
+  "version": "1.0.0",
+  "description": "Want to yell something as a webpage? Call this CLI and get your very own website filled with frustrations!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Graham",
+  "license": "ISC",
+  "dependencies": {
+    "tmp": "^0.2.1"
+  },
+  "devDependencies": {}
+}
