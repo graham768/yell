@@ -3,7 +3,7 @@
 # Installation: 
 # `npm i -g surge`
 # `surge` (to set up your account)
-# `npm i -g yell`
+# `npm i -g @graham768/yell`
 
 # Usage:
 # yell \<phrase\> \[\<domain\>\]
