@@ -14,5 +14,19 @@
   "dependencies": {
     "tmp": "^0.2.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graham768/yell.git"
+  },
+  "keywords": [
+    "surge",
+    "cli",
+    "website",
+    "funny"
+  ],
+  "bugs": {
+    "url": "https://github.com/graham768/yell/issues"
+  },
+  "homepage": "https://github.com/graham768/yell#readme"
 }

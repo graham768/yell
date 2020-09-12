@@ -1,4 +1,4 @@
-# Do you want to yell your opinions to the world in website form? Install yell and incite violence today
+# Do you want to yell your opinions from the command line to the world in website form? Install yell and incite violence today
 
 # Installation: 
 # `npm i -g surge`
