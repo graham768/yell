@@ -3,7 +3,7 @@
   "bin": {
     "yell": "index.js"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Want to yell something as a webpage? Call this CLI and get your very own website filled with frustrations!",
   "main": "index.js",
   "scripts": {
