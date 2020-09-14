@@ -13,4 +13,4 @@
 # `yell "DON'T PUT YOUR FISH IN THE OFFICE MICROWAVE" thats-disgusting-karen.surge.sh`
 
 # Info:
-# This tool relies on [surge.sh](surge.sh) because it's amazing and more devs should know about it
+# This tool relies on [surge.sh](https://surge.sh) because it's amazing and more devs should know about it
